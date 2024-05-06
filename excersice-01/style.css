@@ -1,0 +1,23 @@
+main{
+    position: relative;
+}
+#boxes{
+    display: flex;
+    justify-content: center;
+}
+
+#boxes>div{
+    width: 170px;
+}
+
+#boxes>div>img{
+    width: 170px;
+}
+#boxes>div>div{
+    position: relative;
+    top: 0;
+    right: 0;
+    margin: auto;
+    width: 50px;
+}
+
