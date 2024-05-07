@@ -8,6 +8,7 @@ main{
 
 #boxes{
     display: flex;
+
 }
 
 #boxes>div{
@@ -30,8 +31,9 @@ main{
 }
 
 #home-image{
-    width: 350px;
-    height: 230px;
+    border-radius: 100px;
+    width: 380px;
+    height: 300px;
 }
 
 
