@@ -31,7 +31,7 @@ main {
 #color-panel>div:first-child{
     position: relative;
     bottom: 157px;
-    background: red;
+    background: #EA2027;
 }
 
 #color-panel>div:nth-child(2){
