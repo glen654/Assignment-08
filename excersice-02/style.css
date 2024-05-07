@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #576574;
 }
 
 main {
@@ -26,5 +26,32 @@ main {
     height: 120px;
     margin: 5px;
     border-radius: 10px;
-    border: 2px solid darkred;
+}
+
+#color-panel>div:first-child{
+    position: relative;
+    bottom: 157px;
+    background: red;
+}
+
+#color-panel>div:nth-child(2){
+    background: #16a085;
+}
+
+#color-panel>div:nth-child(3){
+    background: #2980b9;
+}
+
+#color-panel>div:nth-child(4){
+    background: #f1c40f;
+}
+
+#color-panel>div:nth-child(5){
+    background: #833471;
+}
+
+#color-panel>div:last-child{
+    position: relative;
+    top: 167px;
+    background: #e84393;
 }
