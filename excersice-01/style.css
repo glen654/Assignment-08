@@ -18,15 +18,20 @@ main{
     width: 250px;
 }
 #boxes>div>div{
+    display: inline-block;
     position: relative;
-    top: 0;
-    right: 0;
+    bottom: 179px;
+    left: 205px;
     margin: auto;
     width: 50px;
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: large;
 }
 
 #home-image{
     width: 350px;
     height: 230px;
 }
+
 
