@@ -51,7 +51,7 @@ main>div{
     margin: auto;
     width: 1000px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 div>button{
